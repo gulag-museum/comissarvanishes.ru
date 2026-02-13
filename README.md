@@ -27,8 +27,8 @@ This repository contains a permanent static mirror of the website `comissarvanis
 
 ## 🛠 Technical Details / Технические детали
 
-**EN:** This archive is a static HTML snapshot generated via `HTTrack`.
-**RU:** Этот архив представляет собой статический снимок HTML, созданный с помощью `HTTrack`.
+**EN:** This archive is a static HTML snapshot generated via `wget`.
+**RU:** Этот архив представляет собой статический снимок HTML, созданный с помощью `wget`.
 
 * **Functionality:** All internal links are preserved. Search and forms are disabled.
 * **Функциональность:** Все внутренние ссылки сохранены. Поиск и формы обратной связи отключены.
